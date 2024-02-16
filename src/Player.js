@@ -3,7 +3,7 @@ import React from 'react'
 function Player() {
   return (
     <div>
-        <h1>Abzi</h1>
+        <h1>Music Player</h1>
     </div>
   )
 }
